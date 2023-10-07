@@ -22,3 +22,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+# Ignorar archivos .swp 
+*.swp
+
+# Ignorar archivos y directorios de proyecto de Eclipse
+.project
+.settings/
+.metadata/
+bin/
