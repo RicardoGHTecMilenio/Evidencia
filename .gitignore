@@ -25,3 +25,9 @@ replay_pid*
 # Ignorar archivos .swp 
 *.swp
 
+# Ignorar archivos y directorios de proyecto de Eclipse
+.project
+.settings/
+.metadata/
+bin/
+
